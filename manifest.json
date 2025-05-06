@@ -4,7 +4,6 @@
   "author": "Marcus Low",
   "description": "Allow for recolouring of tasks in Google Calendar",
   "version": "0.1.0",
-  "license": "LGPL-3.0-only",
   "content_scripts": [
     {
       "js": [ "main.js" ],
