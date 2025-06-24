@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Task Colour",
+  "name": "Task Color",
   "author": "Marcus Low",
-  "description": "Allows for recolouring of tasks in Google Calendar\u2122",
+  "description": "Allows for recoloring of tasks in Google Calendar\u2122",
   "version": "0.1.0",
   "content_scripts": [
     {
