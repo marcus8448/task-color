@@ -3,7 +3,7 @@
   "name": "Task Color",
   "author": "Marcus Low",
   "description": "Allows for recoloring of tasks in Google Calendar\u2122",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "content_scripts": [
     {
       "js": [ "main.js" ],
